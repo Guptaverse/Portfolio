@@ -8,11 +8,11 @@ I'm Shivam Gupta, a Software Developer with a passion for product development. T
 
 ## Preview
 
-![Portfolio Screenshot]('.src/Assets/images/readme1.JPG')
+![Portfolio Screenshot]('.Portfolio/src/Assets/images/readme.JPG')
 
 ## Live Demo
 
-Check out the live demo of my portfolio [here](https://your-portfolio-url.com).
+Check out the live demo of my portfolio [here](https://guptaverse.netlify.app/).
 
 ## Features
 
@@ -28,7 +28,7 @@ To run this project locally and explore my portfolio:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/guptaverse/Portfolio.git
    ```
 2. Install the project dependencies:
 
