@@ -1,61 +1,54 @@
-
 # My Personal Portfolio
 
-Welcome to my personal portfolio! This project showcases my work, experience, education, and the technologies I use. It's built with React.js.
+Welcome to my personal portfolio project! This website showcases my projects, experience, education, and tech stack. It's built using React.js.
 
 ## About Me
 
-I'm [Your Name], a passionate [Your Profession] with a strong interest in [Your Interests]. Here, you can learn more about my journey, projects, and skills.
+I'm Shivam Gupta, a Software Developer with a passion for product development. This portfolio is a reflection of my journey, skills, and accomplishments.
 
-## Projects
+## Preview
 
-### Project 1: [Project Name 1](link-to-project-1)
-- Description: Briefly describe what this project is about.
-- Tech Stack: List the technologies used in this project.
+![Portfolio Screenshot]('.src/Assets/images/readme1.JPG')
 
-### Project 2: [Project Name 2](link-to-project-2)
-- Description: Briefly describe what this project is about.
-- Tech Stack: List the technologies used in this project.
+## Live Demo
 
-### ... (Add more projects)
+Check out the live demo of my portfolio [here](https://your-portfolio-url.com).
 
-## Experience
+## Features
 
-### [Company Name 1](link-to-company-1) - Position (e.g., Software Engineer)
-- Description: Describe your role and responsibilities at this company.
-- Duration: Mention the time period you worked here.
+- **Projects:** View my latest projects and click through to see more details.
+- **Experience:** Learn about my work history, responsibilities, and achievements.
+- **Education:** Explore my academic background and qualifications.
+- **Tech Stack:** Discover the technologies I work with.
 
-### [Company Name 2](link-to-company-2) - Position (e.g., Web Developer)
-- Description: Describe your role and responsibilities at this company.
-- Duration: Mention the time period you worked here.
+## How to Run Locally
 
-### ... (Add more work experiences)
+To run this project locally and explore my portfolio:
 
-## Education
+1. Clone this repository to your local machine:
 
-- [Degree Name 1](link-to-degree-1) - [University Name 1](link-to-university-1)
-  - Year: Mention the year of completion.
-  
-- [Degree Name 2](link-to-degree-2) - [University Name 2](link-to-university-2)
-  - Year: Mention the year of completion.
+   ```bash
+   git clone https://github.com/your-username/your-portfolio.git
+   ```
+2. Install the project dependencies:
+
+   ```bash
+    npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+    npm start
+   ```
+
+4. Open your web browser and visit ```bash http://localhost:3000 ``` to see the portfolio.:
+
 
 ## Tech Stack
-
-- React.js
-- HTML/CSS
-- JavaScript
-- [Add more technologies]
-
+- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js
+- ![HTML/CSS](https://upload.wikimedia.org/wikipedia/commons/2/2f/HTML5_and_CSS3_logos.svg) HTML/CSS
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
+  
 ## Contact
-
-Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) for any inquiries or collaborations.
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
-- [Portfolio Website](https://www.your-portfolio-website.com)
-
----
-
-Thank you for visiting my portfolio! 😄
+Feel free to reach out to me at [shivam.gupta.e21@nsut.ac.in](mailto:shivam.gupta.e21@nsut.ac.in) for any inquiries or collaborations.
