@@ -48,9 +48,13 @@ To run this project locally and explore my portfolio:
 ## Tech Stack
 
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-007acc?style=for-the-badge&labelColor=black&logo=bootstrap%2B%2B&logoColor=007acc)](#) [![Html](https://img.shields.io/badge/-Html-3C873A?style=for-the-badge&labelColor=black&logo=html&logoColor=3C873A)](#) [![Css Badge](https://img.shields.io/badge/-Css-FFE873?style=for-the-badge&labelColor=306998&logo=Css&logoColor=white)](#) 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
   
 ## Contact
