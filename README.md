@@ -47,14 +47,9 @@ To run this project locally and explore my portfolio:
 
 ## Tech Stack
 
-1. 
-    ```bash
-        <React.js>
-        <HTML>
-        <CSS>
-        <JavaScript>
-        <Bootstrap>
-    ```
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-007acc?style=for-the-badge&labelColor=black&logo=bootstrap%2B%2B&logoColor=007acc)](#) [![Html](https://img.shields.io/badge/-Html-3C873A?style=for-the-badge&labelColor=black&logo=html&logoColor=3C873A)](#) [![Css Badge](https://img.shields.io/badge/-Css-FFE873?style=for-the-badge&labelColor=306998&logo=Css&logoColor=white)](#) 
 
 
   
