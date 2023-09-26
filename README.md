@@ -8,7 +8,7 @@ I'm Shivam Gupta, a Software Developer with a passion for product development. T
 
 ## Preview
 
-![Portfolio Screenshot]('.Portfolio/src/Assets/images/readme.JPG')
+![Portfolio Screenshot]('.Portfolio/src/images/readme.JPG')
 
 ## Live Demo
 
