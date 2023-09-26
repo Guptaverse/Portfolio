@@ -8,7 +8,7 @@ I'm Shivam Gupta, a Software Developer with a passion for product development. T
 
 ## Preview
 
-![Portfolio Screenshot](.src/images/readme1.JPG)
+![Portfolio Screenshot](src/images/readme1.JPG)
 
 ## Live Demo
 
