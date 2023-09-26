@@ -56,6 +56,9 @@ To run this project locally and explore my portfolio:
 
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+
+<br/>
+<br/>
   
 ## Contact
 Feel free to reach out to me at [shivam.gupta.e21@nsut.ac.in](mailto:shivam.gupta.e21@nsut.ac.in) for any inquiries or collaborations.
