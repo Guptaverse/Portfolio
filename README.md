@@ -46,12 +46,14 @@ To run this project locally and explore my portfolio:
 
 
 ## Tech Stack
+
+1. 
     ```bash
-    <React.js>
-    <HTML>
-    <CSS>
-    <JavaScript>
-    <Bootstrap>
+        <React.js>
+        <HTML>
+        <CSS>
+        <JavaScript>
+        <Bootstrap>
     ```
 
 
