@@ -42,13 +42,19 @@ To run this project locally and explore my portfolio:
     npm start
    ```
 
-4. Open your web browser and visit ```bash http://localhost:3000 ``` to see the portfolio.:
+4. Open your web browser and visit ``` http://localhost:3000 ``` to see the portfolio.:
 
 
 ## Tech Stack
-- ![React.js](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js
-- ![HTML/CSS](https://upload.wikimedia.org/wikipedia/commons/2/2f/HTML5_and_CSS3_logos.svg) HTML/CSS
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
+    ```bash
+    <React.js>
+    <HTML>
+    <CSS>
+    <JavaScript>
+    <Bootstrap>
+    ```
+
+
   
 ## Contact
 Feel free to reach out to me at [shivam.gupta.e21@nsut.ac.in](mailto:shivam.gupta.e21@nsut.ac.in) for any inquiries or collaborations.
